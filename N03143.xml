@@ -115,8 +115,8 @@
    <text xml:lang="eng">
       <body>
          <div type="text">
-            <pb facs="tcp:003798_0000_10025E7E42CC4730"/>
-            <pb facs="tcp:003798_0001_10025E806CC9AED8"/>
+            <pb facs="unknown:003798_0000_10025E7E42CC4730"/>
+            <pb facs="unknown:003798_0001_10025E806CC9AED8"/>
             <head>
                <gap reason="foreign">
                   <desc>〈 in non-Latin alphabet 〉</desc>
